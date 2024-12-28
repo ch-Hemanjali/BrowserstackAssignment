@@ -96,42 +96,42 @@ $ mvn test
 
 Project Structure
 
-src/main/java/com/Browserstack/
+src/main/java/com/Browserstack/x
 |-- TestBrowserstack.java    # Main entry point for BrowserStack execution.
 |-- HomePage.java            # Handles navigation and scraping logic.
 |-- OpinionSection.java      # Extracts articles, images, and details from the Opinion section.
 |-- Translation.java         # Integrates with Rapid Translate API for header translation.
 |-- Occurrences.java         # Analyzes translated headers for word repetitions.
 
-Key Functions
+## Key Functions
 
-1. TestBrowserstack
+## 1. TestBrowserstack
 
 Handles cross-browser testing on BrowserStack, setting up capabilities for both desktop and mobile devices.
 
-2. HomePage
+## 2. HomePage
 
 Navigates to the El País homepage.
 
 Configures settings based on the platform (desktop or mobile).
 
-3. OpinionSection
+## 3. OpinionSection
 
 Extracts article titles, content, and images.
 
 Downloads images locally.
 
-4. Translation
+## 4. Translation
 
 Translates article headers from Spanish to English using the Rapid Translate Multi Traduction API.
 
-5. Occurrences
+## 5. Occurrences
 
 Counts words across all translated headers.
 
 Identifies and prints words that appear more than twice.
 
-Sample Output
+### Sample Output
 
 Scraped Articles
 
