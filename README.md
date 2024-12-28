@@ -1,4 +1,4 @@
-# BrowserstackAssignment
+# BrowserstackSeleniumTest
 
 
 ## BrowserStack Web Scraping, API Integration Project and Text processing using the Selenium framework 
