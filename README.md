@@ -3,7 +3,7 @@
 
 ## BrowserStack Web Scraping, API Integration Project and Text processing using the Selenium framework 
 
-This project demonstrates a combination of skills in web scraping, API integration, and text processing using the Selenium framework, along with cross-browser testing on BrowserStack. The solution scrapes articles from the Spanish news website El País, translates article headers, analyzes the translated text for repeated words, and validates the functionality across multiple browser and device combinations.
+This project demonstrates a combination of skills in web scraping, API integration, and text processing using the Selenium framework, along with cross-browser testing on BrowserStack. The solution scrapes articles from the Spanish news website El País ( https://elpais.com/ ), translates article headers, analyzes the translated text for repeated words, and validates the functionality across multiple browser and device combinations.
 
 ## Features
 
