@@ -1,0 +1,1169 @@
+00:07:12.238 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:07:12.242 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:07:12.446 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:07:12.447 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:07:12.488 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:07:12.493 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:07:12.904 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:07:19.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:07:20.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+00:07:28.956 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+00:07:33.807 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jnxkrejqbewpkes8xewf4ee2ksf8o3vb8sfpwbwy to view build report, insights, and many more debugging information all at one place!
+
+00:07:33.807 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:08:56.466 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:08:56.469 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:08:56.686 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:08:56.686 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:08:56.739 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:08:56.746 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:08:57.170 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:09:06.181 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:09:07.287 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+00:09:16.453 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+00:09:23.052 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pzl5llzebhjne9frmmuzbcfbqszqd0t6g2ybnti1 to view build report, insights, and many more debugging information all at one place!
+
+00:09:23.052 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:16.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:13:16.503 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:13:16.678 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:13:16.679 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:13:16.726 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:13:16.736 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:13:17.107 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:13:27.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:13:28.818 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:13:38.049 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:13:43.804 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fjapxalbijryp3zknjjk344psz3yadl1tmozegxp to view build report, insights, and many more debugging information all at one place!
+
+00:13:43.805 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:47.170 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:14:37.126 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:14:37.129 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:14:37.321 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:14:37.321 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:14:37.368 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:14:37.378 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:14:37.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:14:46.733 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:14:47.634 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:14:58.021 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:15:02.698 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/iimwboll4zjxkkb3sgig7ikc2ontyzksfqyltq4t to view build report, insights, and many more debugging information all at one place!
+
+00:15:02.698 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:15:05.889 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:15:20.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:15:20.948 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:15:21.167 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:15:21.168 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:15:21.215 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:15:21.224 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:15:21.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:15:29.892 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:15:30.760 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:15:39.775 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:15:47.550 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wo1beq4ksrpc00m0sy17umxjkgpk6aqvrufamirb to view build report, insights, and many more debugging information all at one place!
+
+00:15:47.550 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:15:50.687 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:16:55.091 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:16:55.095 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:16:55.281 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:16:55.282 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:16:55.325 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:16:55.334 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:16:55.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:17:02.238 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:17:03.259 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:17:16.162 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:17:22.962 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ffxddxmkmxopld9k5d5sqe54khjdzdlwutqozx7s to view build report, insights, and many more debugging information all at one place!
+
+00:17:22.963 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:17:26.259 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:23:42.803 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:23:42.806 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:23:43.006 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:23:43.007 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:23:43.048 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:23:43.057 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:23:43.465 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:23:54.216 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:23:55.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:24:11.865 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:24:22.527 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lq3qh9b42xzwj3pez4qnu7lncrofo68f1tj1rdda to view build report, insights, and many more debugging information all at one place!
+
+00:24:22.528 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:24:29.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:24:29.493 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:24:29.741 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:24:29.741 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:24:29.794 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:24:29.806 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:24:30.288 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:24:30.764 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:24:35.680 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:24:37.022 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:24:47.303 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:24:48.164 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/s5yfo85bceuu2bmlzjt9tqfq4n8fgt6ajacf12x6 to view build report, insights, and many more debugging information all at one place!
+
+00:24:48.164 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:24:51.686 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:41:26.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:41:26.284 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:41:26.531 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\SeleniumBrowserstackAssign\\Browserstack, localrepository=C\:\\Users\\heman\\.m2\\repository}
+00:41:26.532 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:41:26.586 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:41:26.596 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:41:26.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:41:58.212 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:42:01.713 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:42:12.937 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:42:14.144 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/v2w54umw6wxupb7vfibc6n3bzoyto7uzpwklqynt to view build report, insights, and many more debugging information all at one place!
+
+00:42:14.145 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:42:16.731 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:48:06.852 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:48:06.855 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:48:07.074 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:48:07.074 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:48:07.119 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:48:07.127 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:48:07.553 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:48:11.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:48:13.008 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:48:26.608 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:48:32.055 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/g6pkrp4qf0vnpw1ndkyrpe8lqhn3gqa8s34zw91p to view build report, insights, and many more debugging information all at one place!
+
+00:48:32.055 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:48:35.398 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+00:49:37.096 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+00:49:37.101 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:49:37.398 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+00:49:37.398 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+00:49:37.457 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:49:37.480 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+00:49:38.004 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:49:43.525 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:49:44.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+00:49:53.556 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+00:50:00.200 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/1gla9tzm9odca0zcsjxyxpxs39zssqxouj3fvp4x to view build report, insights, and many more debugging information all at one place!
+
+00:50:00.200 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:50:03.819 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:05:17.153 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:05:17.157 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:05:17.415 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\SeleniumBrowserstackAssign\\Browserstack, localrepository=C\:\\Users\\heman\\.m2\\repository}
+01:05:17.415 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:05:17.481 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:05:17.490 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:05:17.805 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:05:26.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:05:28.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:05:38.377 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:05:40.067 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nwvnwfta7udgig72d42dmewujnapy15r5zecpvzk to view build report, insights, and many more debugging information all at one place!
+
+01:05:40.067 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:05:47.980 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:08:18.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:08:18.901 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:08:19.179 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:08:19.180 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:08:19.243 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:08:19.256 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:08:19.822 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:08:27.323 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:08:28.631 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:08:40.539 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:08:45.795 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/scpujekvr82f0pjkztlg6x2rralhnydgbxxzr40l to view build report, insights, and many more debugging information all at one place!
+
+01:08:45.795 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:08:48.844 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:15:38.679 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:15:38.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:15:38.963 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:15:38.964 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:15:39.028 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:15:39.040 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:15:39.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:15:47.887 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:15:49.350 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:16:02.556 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:16:10.066 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nnlbtwjj4q2ryvwfz6zay8gkohixee2exou3hyls to view build report, insights, and many more debugging information all at one place!
+
+01:16:10.066 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:16:14.505 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:17:02.117 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:17:02.123 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:17:02.494 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:17:02.495 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:17:02.585 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:17:02.597 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:17:03.302 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:17:08.861 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:17:09.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:17:20.581 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:17:29.240 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vkgtvaf9xar5pukgmjupuqwsg5tm4ranit3hd216 to view build report, insights, and many more debugging information all at one place!
+
+01:17:29.242 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:17:33.688 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:19:13.680 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:19:13.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:19:13.953 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:19:13.954 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:19:14.015 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:19:14.025 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:19:14.568 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:19:20.019 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:19:21.185 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:19:30.689 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:19:38.782 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kvwuetc5lw44mo1ckuyke9ipdpvrg9edwri3rrrn to view build report, insights, and many more debugging information all at one place!
+
+01:19:38.782 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:19:42.674 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:25:08.804 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:25:08.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:25:09.078 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\SeleniumBrowserstackAssign\\Browserstack, localrepository=C\:\\Users\\heman\\.m2\\repository}
+01:25:09.079 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:25:09.147 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:25:09.159 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:25:09.447 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:25:17.829 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:25:19.321 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:25:29.683 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:25:31.502 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rbct33liveyvjh2wl3btnshnfxtis8dzcmt9tm4v to view build report, insights, and many more debugging information all at one place!
+
+01:25:31.502 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:25:35.449 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:25:46.320 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:25:46.324 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:25:46.598 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:25:46.598 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:25:46.663 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:25:46.672 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:25:47.337 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:25:54.865 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:25:56.165 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:26:05.824 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:26:12.309 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kl5zctej3fddgiqzdnewcjrctlydcituv7noz2gb to view build report, insights, and many more debugging information all at one place!
+
+01:26:12.309 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:26:15.667 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:35:29.673 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:35:29.677 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:35:29.932 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\SeleniumBrowserstackAssign\\Browserstack, localrepository=C\:\\Users\\heman\\.m2\\repository}
+01:35:29.933 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:35:29.999 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:35:30.012 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:35:30.334 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:35:38.292 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:35:39.872 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:35:50.290 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:35:52.010 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vfgfjg90rbkrzxhhg5mtx9xcwht07qplt0k44hd0 to view build report, insights, and many more debugging information all at one place!
+
+01:35:52.011 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:35:55.993 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:36:28.066 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:36:28.070 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:36:28.350 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:36:28.351 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:36:28.409 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:36:28.422 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:36:29.026 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:36:35.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:36:36.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:36:46.704 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:36:53.405 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/l8nvmictankb0ltf6fqrjz9vmd4eskrsdisavhn0 to view build report, insights, and many more debugging information all at one place!
+
+01:36:53.405 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:36:57.128 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+01:42:41.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+01:42:41.965 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:42:42.258 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+01:42:42.258 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+01:42:42.321 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:42:42.333 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+01:42:42.913 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:42:49.836 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:42:51.092 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+01:43:01.189 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+01:43:06.421 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kjodovymdlikhodp8eoodlgvqlf5o3tbsqcm6n4t to view build report, insights, and many more debugging information all at one place!
+
+01:43:06.422 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:43:09.555 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+08:34:02.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+08:34:02.498 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+08:34:02.688 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+08:34:02.692 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+08:34:02.734 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:34:02.741 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+08:34:03.106 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:34:10.787 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+08:34:12.120 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+08:34:18.619 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+08:34:22.740 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dj9hjtj5ulp0gyef0pea9v96dgx7z4smqssuwzew to view build report, insights, and many more debugging information all at one place!
+
+08:34:22.740 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+08:34:24.790 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+08:56:46.404 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+08:56:46.408 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+08:56:46.645 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+08:56:46.646 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+08:56:46.688 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:56:46.694 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+08:56:46.921 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+09:00:07.692 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+09:00:07.695 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:00:07.882 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+09:00:07.882 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+09:00:07.920 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:00:07.930 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+09:00:08.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:00:14.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+09:00:15.830 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+09:00:24.155 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+09:00:54.745 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dzzrfddzjoyvi8yvbr4oc3vj7isfea06wrybr6lg to view build report, insights, and many more debugging information all at one place!
+
+09:00:54.745 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:00:57.289 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+09:01:01.198 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7ee7ef10b8301ccc8c2f16215a45ebff4cc6c9a0
+09:01:01.198 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:05:50.878 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+09:05:50.881 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:05:51.061 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+09:05:51.061 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+09:05:51.103 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:05:51.111 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+09:05:51.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:05:57.158 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+09:05:58.631 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+09:06:06.603 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+09:08:11.277 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/03i4sluttwsrjaiclghjyj3zb3pywdml9459osqj to view build report, insights, and many more debugging information all at one place!
+
+09:08:11.277 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:08:14.116 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+09:08:17.328 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/850b8c0cdfe957e39a4b64c7811fd35a2074c047
+09:08:17.328 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:10:42.182 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+09:10:42.184 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:10:42.354 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+09:10:42.355 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+09:10:42.394 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:10:42.404 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+09:10:42.720 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:10:47.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+09:10:48.649 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+09:10:55.524 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+09:12:52.636 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/m9bindthb7somtmvk0veixdvxbtfbkqokrdrdgcr to view build report, insights, and many more debugging information all at one place!
+
+09:12:52.652 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:12:55.546 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+09:12:58.571 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f0f8e2038bbd11e01623802e39f297ddb064e9ae
+09:12:58.571 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:23:47.913 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+09:23:47.916 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:23:48.096 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+09:23:48.096 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+09:23:48.142 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:23:48.149 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+09:23:48.481 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:23:53.678 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+09:23:54.754 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+09:24:03.384 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+09:26:16.872 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vfezhwn9vx1yzykrpc88nkizes1msmhzxn5tuhjn to view build report, insights, and many more debugging information all at one place!
+
+09:26:16.873 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+09:26:19.836 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+09:26:23.380 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c66d4b7a313818c27d3749df6b0b73fb64026bc3
+09:26:23.380 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:49:42.183 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+10:49:42.185 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:49:42.367 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+10:49:42.367 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+10:49:42.407 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:49:42.416 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+10:49:42.781 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:49:47.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+10:49:48.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+10:49:56.304 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+10:50:30.789 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kt8udq5uap6ws2vdgsgq9izt4hjzx9bmmlpwsddf to view build report, insights, and many more debugging information all at one place!
+
+10:50:30.789 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:50:33.860 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+10:50:36.988 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c5edd6ccd6f64e702e1e17c8f774e8de60543101
+10:50:36.988 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:58:44.937 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+10:58:44.941 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+10:58:45.277 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+10:58:45.278 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+10:58:45.354 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:58:45.369 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+10:58:45.815 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:58:51.955 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+10:58:53.108 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+10:59:01.403 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+10:59:24.390 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/x39wnkb2zvwslcnxljb6v9redqlrusqcd4u87kdd to view build report, insights, and many more debugging information all at one place!
+
+10:59:24.390 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:59:27.989 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+10:59:32.306 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6db7f5aec4c751453c7f9f2228c5e6a44c6369ad
+10:59:32.306 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:02:30.973 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+11:02:30.976 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:02:31.163 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:02:31.164 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+11:02:31.206 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:02:31.214 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:02:31.583 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:02:38.682 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:02:39.675 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+11:02:47.459 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+11:03:09.818 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/8tjuoh3zu2on6rixol4c0ck1iufrngulzniac2xv to view build report, insights, and many more debugging information all at one place!
+
+11:03:09.818 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:03:13.153 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+11:03:17.579 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bef8988ad00d8bf5c1af34217d7d2c0bb0fa1d32
+11:03:17.579 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:04:48.011 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+11:04:48.013 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:04:48.206 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:04:48.206 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+11:04:48.248 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:04:48.257 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:04:48.622 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:04:53.384 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:04:55.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+11:05:02.414 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+11:05:28.599 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gjslcv658lb67x4wnfmfcmh8tz4dghsijsvnvyyo to view build report, insights, and many more debugging information all at one place!
+
+11:05:28.599 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:05:31.510 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+11:05:34.971 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bdb2185145a9ce140f69385cd2ac3740e3109a5a
+11:05:34.971 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:08:20.796 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+11:08:20.800 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:08:20.990 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:08:20.990 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+11:08:21.033 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:08:21.044 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:08:21.396 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:08:28.044 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:08:28.988 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+11:08:37.722 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+11:10:35.369 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/apveqwqx43s5q6qur792fmqzrsu5uecqy3rcplt8 to view build report, insights, and many more debugging information all at one place!
+
+11:10:35.369 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:10:38.666 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+11:10:42.854 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/81572543543fcd3f2f94e21f6468ec08467f6116
+11:10:42.854 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:16:42.860 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+11:16:42.863 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:16:43.062 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:16:43.062 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+11:16:43.108 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:16:43.117 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:16:43.508 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:16:49.418 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:16:50.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+11:16:58.454 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+11:17:39.971 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/p1mnczndgczb2cn2yplhhmhnb5mo8g5qosyuqv2f to view build report, insights, and many more debugging information all at one place!
+
+11:17:39.971 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:17:42.829 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+11:17:46.104 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/509952e01f5eed25db4d520107f352673f6f0636
+11:17:46.104 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:55:10.985 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+11:55:10.990 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:55:11.248 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:55:11.249 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+11:55:11.315 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:55:11.326 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:55:11.767 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:55:18.537 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:55:19.967 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+11:55:28.668 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+11:56:17.771 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/swv3wusb4ggdsat4fdmmxmq943wk8tintk2zqvfh to view build report, insights, and many more debugging information all at one place!
+
+11:56:17.771 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:56:21.256 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+11:56:24.544 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a1f75a83b229c66179b21d1f48837e27d89a8db1
+11:56:24.544 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:00:58.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:00:58.714 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:00:58.929 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:00:58.929 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:00:58.975 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:00:58.987 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:00:59.399 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:01:08.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:01:09.899 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:01:17.992 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:01:58.798 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5fuzy692ojvuqjwcyhbcqvthfj7f6b7s1pab530c to view build report, insights, and many more debugging information all at one place!
+
+12:01:58.798 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:02:03.029 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:02:07.136 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/899e31ba07a35688563ab088b60f1aa2add73047
+12:02:07.137 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:05:55.957 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:05:55.959 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:05:56.116 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:05:56.116 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:05:56.157 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:05:56.163 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:05:56.493 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:06:05.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:06:06.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:06:16.673 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:06:52.190 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/p193lvzlblhhvdlp5d182dahqpijgdju9kreuhwk to view build report, insights, and many more debugging information all at one place!
+
+12:06:52.190 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:06:56.988 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:07:00.531 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/86d7cff1d0a3fdd06ac83817e2ce4c120b33d3b6
+12:07:00.532 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:13:30.354 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:13:30.358 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:13:30.581 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:13:30.582 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:13:30.631 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:13:30.640 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:13:31.066 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:13:39.650 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:13:41.430 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:13:52.030 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:14:42.265 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ef8ml7o4bweok9iacdmaqfrqvvcg0mlok4p3csen to view build report, insights, and many more debugging information all at one place!
+
+12:14:42.265 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:14:45.784 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:14:49.833 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c1c22ad07190d58787a0e84f2c2e52e95bb9c2d1
+12:14:49.833 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:18:29.302 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:18:29.305 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:18:29.494 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:18:29.494 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:18:29.538 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:18:29.548 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:18:29.938 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:18:36.994 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:18:38.349 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:18:49.833 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:19:42.202 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nejivpkj1i5y4czn55jnr7gvh5la4nhye7xrxdbv to view build report, insights, and many more debugging information all at one place!
+
+12:19:42.202 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:19:46.329 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:19:49.969 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ff274bcf073295be802e8be35f8567cd1331dce8
+12:19:49.969 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:31:43.529 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:31:43.531 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:31:43.742 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:31:43.742 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:31:43.780 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 13.0
+    ^
+.
+12:31:43.785 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:31:43.790 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:31:44.122 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+12:36:32.216 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:36:32.221 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:36:32.413 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:36:32.414 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:36:32.450 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 13.0
+    ^
+.
+12:36:32.454 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:36:32.456 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:36:32.632 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+12:38:25.988 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:38:25.990 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:38:26.154 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:38:26.155 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:38:26.190 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 13.0
+    ^
+.
+12:38:26.194 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:38:26.197 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:38:26.372 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+12:39:42.644 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:39:42.646 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:39:42.807 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:39:42.807 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:39:42.843 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:39:42.850 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:39:43.183 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:39:50.385 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:39:51.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:40:00.140 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:41:35.364 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/1tydewlkzp1ekutcesmozidugkpub353pjqrkw47 to view build report, insights, and many more debugging information all at one place!
+
+12:41:35.364 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:41:39.661 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:41:43.392 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7ebf4a5142e65bf6461b55232c7c9b165df28329
+12:41:43.392 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:43:51.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:43:51.510 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:43:51.736 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:43:51.736 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:43:51.786 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:43:51.797 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:43:52.242 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:44:01.008 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:44:02.512 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:44:12.762 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:45:00.751 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uaevcx6hl9vjubt1ebevwokgpjewuqzuwkwyjddi to view build report, insights, and many more debugging information all at one place!
+
+12:45:00.751 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:45:03.988 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:45:07.733 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/306e68fdb9be2232f4e354319b78f960418363d8
+12:45:07.733 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:51:33.725 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:51:33.727 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:51:33.891 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:51:33.891 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:51:33.934 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:51:33.943 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:51:34.283 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:51:41.363 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:51:43.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:51:54.466 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:52:37.214 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xap4auv3fhshyo32xdpwokxw8lnhccynju14luxe to view build report, insights, and many more debugging information all at one place!
+
+12:52:37.214 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:52:41.938 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:52:57.672 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0108a0b446b99cfe673d58a1cee376061d6ea6c8
+12:52:57.672 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:55:24.626 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:55:24.629 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:55:24.810 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:55:24.811 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:55:24.849 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:55:24.858 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+12:55:25.196 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:55:32.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:55:33.569 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+12:55:45.375 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+12:57:29.808 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/1zadcxjqskkus34crgfxkr3v1ocyhkaboqrlujtl to view build report, insights, and many more debugging information all at one place!
+
+12:57:29.808 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:57:33.068 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+12:57:36.286 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7d185fd54c6177d5cefee7700b3e3614a750143c
+12:57:36.286 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:59:46.826 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:59:46.828 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:59:47.005 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:59:47.005 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+12:59:47.035 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 5, column 1:
+    	- os: OS X
+    ^
+.
+12:59:47.039 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:59:47.042 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:59:47.219 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:00:48.172 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:00:48.175 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:00:48.340 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:00:48.340 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:00:48.382 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:00:48.393 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:00:48.923 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:00:56.431 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:00:58.071 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:01:08.532 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:01:44.779 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/esurb4topti5jvsxiinin0vvi7o4gupl673fp3u3 to view build report, insights, and many more debugging information all at one place!
+
+13:01:44.780 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:01:47.827 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+13:01:51.710 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/d4f8fbdfd775345e5a473c7892e018b437df660d
+13:01:51.710 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:05:17.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:05:17.861 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:05:18.020 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:05:18.020 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:05:18.054 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 10
+    ^
+.
+13:05:18.058 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:05:18.062 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:05:18.246 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:10:00.247 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:10:00.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:10:00.446 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:10:00.446 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:10:00.496 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:10:00.509 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:10:00.905 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:10:10.824 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:10:12.119 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:10:20.129 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:12:58.034 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/8fdzqraeq93xgwee45ewlgtsj9udqgkmtd0yveij to view build report, insights, and many more debugging information all at one place!
+
+13:12:58.034 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:13:01.272 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+13:13:05.135 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/cfe383908d79784f12e7df8841d297925a252781
+13:13:05.135 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:25:22.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:25:22.562 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:25:22.732 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:25:22.732 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:25:22.769 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:25:22.777 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:25:23.098 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:25:36.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:25:37.681 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:25:46.982 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:28:23.765 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/3pjvkzpy86osmaqtpr01tx1oufdmhu8phy6gvsqd to view build report, insights, and many more debugging information all at one place!
+
+13:28:23.765 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:28:27.282 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+13:28:31.668 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c4d9fa47e447c6c98a8171cacce7632a43e1e7cb
+13:28:31.668 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:34:19.516 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:34:19.518 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:34:19.676 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:34:19.676 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:34:19.713 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:34:19.719 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:34:20.053 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:34:31.957 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:34:33.585 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:34:46.284 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:35:27.922 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4ey9rcfzgdwrvyxnsoc0x9zn9xzylqhqmquyahko to view build report, insights, and many more debugging information all at one place!
+
+13:35:27.922 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:35:31.557 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+13:35:35.739 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a07092e3a4443806a91057aa3c27635f1fc5ca16
+13:35:35.739 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:42:38.414 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:42:38.416 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:42:38.584 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:42:38.585 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+13:42:38.625 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:42:38.632 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:42:38.979 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:42:46.322 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:42:47.724 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+13:42:56.873 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+13:46:18.031 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/l82yfshqu6y9nvhvy9ywxbuywrmgc5xfbueo8a7x to view build report, insights, and many more debugging information all at one place!
+
+13:46:18.031 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:46:20.805 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+13:46:25.148 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/19e21ac21883876bd9ae908ad0e94a25ec51ec9b
+13:46:25.148 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:27:40.805 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:27:40.807 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:27:40.973 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:27:40.973 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:27:41.015 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:27:41.024 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:27:41.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:27:46.546 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:27:47.777 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:27:55.627 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:28:37.171 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/n8a0jw5oqtdakoqilisuj2fz931lutdttgggozxl to view build report, insights, and many more debugging information all at one place!
+
+14:28:37.171 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:28:39.860 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:28:43.457 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a88e5318ec4bcef619755538fa8758bf3fad70bb
+14:28:43.457 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:33:05.701 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:33:05.704 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:33:05.900 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:33:05.900 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:33:05.944 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:33:05.957 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:33:06.321 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:33:11.215 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:33:12.359 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:33:20.166 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:33:53.152 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/1ylnlzzi0jwscjwnvbyt7wy4ksjggdhtk9i5qspd to view build report, insights, and many more debugging information all at one place!
+
+14:33:53.152 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:33:55.983 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:34:00.071 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b3c419bdf5bd60a97b63c0f21cfd5af2088b2e6c
+14:34:00.071 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:34:25.233 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:34:25.236 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:34:25.412 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:34:25.413 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:34:25.454 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:34:25.464 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:34:25.782 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:34:31.820 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:34:32.871 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:34:39.743 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:35:31.864 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pmelvta0lmyducgnmprnaxyddyzobb0sfaytt88r to view build report, insights, and many more debugging information all at one place!
+
+14:35:31.864 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:35:34.538 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:35:37.979 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/1e88f59c92b1ec90534d88f76e95c8f53bdb646f
+14:35:37.979 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:39:14.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:39:14.023 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:39:14.209 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:39:14.209 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:39:14.249 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:39:14.257 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:39:14.580 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:39:20.446 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:39:21.391 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:39:27.807 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:40:52.557 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5xgbfmo1srebjgxnras1svgftlrufi9gocxxhc3n to view build report, insights, and many more debugging information all at one place!
+
+14:40:52.557 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:40:55.255 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:40:58.789 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/511be2a29882d17f0101f9cec9a79c2cd4dc9162
+14:40:58.795 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:50:37.242 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:50:37.245 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:50:37.424 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:50:37.424 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:50:37.471 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:50:37.482 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:50:37.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:50:44.549 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:50:45.950 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:50:53.797 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+14:52:11.086 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/awpumbd1njueg3vtws1z9vcgxy6x1fbgzi0lnczz to view build report, insights, and many more debugging information all at one place!
+
+14:52:11.086 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:52:13.995 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+14:52:17.741 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5fd7ec6552750319ae495049e6af75276cf36e1f
+14:52:17.741 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:55:32.000 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+14:55:32.002 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:55:32.195 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:55:32.195 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+14:55:32.243 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:55:32.253 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+14:55:32.622 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:55:40.172 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:55:41.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+14:55:50.099 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:01:29.740 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/diotoutmxsh8jodrp4mupea15nnpdtlqzprf2lxl to view build report, insights, and many more debugging information all at one place!
+
+15:01:29.740 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:01:32.916 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:01:36.592 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a5c38d3c956da88db81c047271fa2c0549e10d7c
+15:01:36.592 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:07:53.347 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:07:53.352 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:07:53.525 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:07:53.526 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:07:53.563 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:07:53.569 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:07:53.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:07:59.200 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:08:00.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:08:08.081 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:08:45.017 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rg5vmnct1r1jwtewm1rcpqdovvfqiehr9am5pm0b to view build report, insights, and many more debugging information all at one place!
+
+15:08:45.017 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:08:47.892 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:08:52.953 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2019e438219e4b58486ed97d8142b6eaec3aa884
+15:08:52.953 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:10:47.259 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:10:47.262 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:10:47.441 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:10:47.442 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:10:47.489 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:10:47.498 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:10:47.985 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:10:54.121 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:10:55.088 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:11:02.049 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:11:29.828 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hbe2lxyiiqrou2n51cy8atrl8ah3vevlswukqx58 to view build report, insights, and many more debugging information all at one place!
+
+15:11:29.828 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:11:32.818 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:11:37.226 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c44ed991638d2f9667e71da98b8eafe04d65544d
+15:11:37.226 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:16:07.624 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:16:07.627 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:16:07.802 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:16:07.803 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:16:07.841 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:16:07.851 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:16:08.165 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:16:13.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:16:15.062 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:16:29.912 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:17:06.426 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mluvggov8uuvcdsti1rce2kbkld8doxuvu61rp9c to view build report, insights, and many more debugging information all at one place!
+
+15:17:06.426 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:17:09.483 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:17:13.324 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0926365b909f1ba16ccda5010f657686f4e4cd45
+15:17:13.324 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:19:39.120 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:19:39.123 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:19:39.324 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:19:39.325 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:19:39.369 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:19:39.378 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:19:39.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:19:44.804 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:19:45.886 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:19:53.581 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:20:53.432 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:20:59.283 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60266da5dc7a32366765c863ab40cdf5e427e8a4
+15:20:59.283 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:21:13.152 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:21:13.157 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:21:13.316 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:21:13.316 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:21:13.364 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:21:13.364 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:21:13.714 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:21:22.995 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:21:24.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:21:31.745 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:23:29.673 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ff3y271yj0cuylt4a8ll1ebxqsq0igl0dqayexah to view build report, insights, and many more debugging information all at one place!
+
+15:23:29.673 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:23:32.769 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:23:38.516 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0d614990653d9ea1662642ed5f8c8ee71e4cc4e3
+15:23:38.517 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:28:22.763 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:28:22.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:28:23.047 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:28:23.048 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:28:23.106 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:28:23.125 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:28:23.523 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:28:31.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:28:33.752 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:28:46.425 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:30:49.716 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vzc3zsk3j4ms0ttujkwq2hermkyoonegqqurqjpp to view build report, insights, and many more debugging information all at one place!
+
+15:30:49.716 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:30:53.227 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:30:57.191 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/16b3504128146aa2ebdc88215639f82c854bfca6
+15:30:57.192 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:40:31.762 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+15:40:31.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:40:31.954 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:40:31.955 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+15:40:31.994 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:40:32.004 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:40:32.350 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:40:38.880 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:40:40.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+15:40:50.637 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+15:44:52.015 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/eujcsav5vrcgaiv5yjdnakip1helkrsgf0kn4xve to view build report, insights, and many more debugging information all at one place!
+
+15:44:52.015 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:44:55.263 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+15:45:00.813 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/009ab335807c166d0a9e42c466f94549fe637bf2
+15:45:00.813 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:04:50.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:04:50.857 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:04:51.080 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:04:51.081 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:04:51.124 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 17
+    ^
+.
+16:04:51.128 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:04:51.135 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:04:51.356 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+16:08:45.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:08:45.243 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:08:45.458 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:08:45.459 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:08:45.501 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:08:45.509 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:08:45.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:09:12.924 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:09:14.681 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:09:23.536 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:14:18.660 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lifjtwrndtruqdebjdbdgdgpzua9e6plgdda5ea5 to view build report, insights, and many more debugging information all at one place!
+
+16:14:18.661 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:22.950 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:14:27.273 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8b4e9ec1f6925c66c7ac9b200def7167f70e5e8a
+16:14:27.274 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:20:17.498 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:20:17.501 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:20:17.690 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:20:17.691 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:20:17.730 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:20:17.738 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:20:18.106 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:20:49.350 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:20:51.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:21:01.642 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:21:54.447 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fyvv4fxpzqrmympach9ayge8jgpbrzxjkk7rejiz to view build report, insights, and many more debugging information all at one place!
+
+16:21:54.447 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:21:58.538 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:22:07.097 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6f085b32fbfd42be1c16476fa7cbd007abcea049
+16:22:07.097 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:26:31.342 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:26:31.345 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:26:31.518 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:26:31.518 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:26:31.556 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 10, column 1:
+    	osVersion: 17
+    ^
+.
+16:26:31.562 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:26:31.565 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:26:31.777 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+16:30:27.364 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:30:27.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:30:27.551 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:30:27.552 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:30:27.595 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:30:27.605 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:30:27.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:31:18.121 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:31:19.943 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:31:30.466 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:35:03.486 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/robrejglphrmoyxlcyfdek9hq78eailtey306rnz to view build report, insights, and many more debugging information all at one place!
+
+16:35:03.486 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:07.738 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:35:13.544 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b1aa92f1f2f8340812ff0fb1b1601beeaed6cbf0
+16:35:13.544 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:37.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:39:37.591 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:39:37.774 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:39:37.774 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:39:37.820 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:39:37.828 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:39:38.398 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:39:47.949 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:39:50.289 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:40:02.285 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:43:29.519 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/a3cfiapeic04ivxvkth6rq5dgu3s2dwdyafdgfbq to view build report, insights, and many more debugging information all at one place!
+
+16:43:29.519 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:43:33.677 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:43:39.795 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/498814a286522c4500e6e57600976857182c19ba
+16:43:39.795 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:50:45.232 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+16:50:45.235 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:50:45.437 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:50:45.437 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+16:50:45.489 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:50:45.499 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:50:46.030 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:50:54.170 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:50:55.675 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+16:51:08.091 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+16:54:00.742 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mnmehceuvctaxnbvb6w5bizjdjulq4tmgqm8yxse to view build report, insights, and many more debugging information all at one place!
+
+16:54:00.742 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:54:04.299 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+16:54:09.189 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/943c67aa5842f8d7c72cf9af0da018e8fd00be60
+16:54:09.189 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:17.107 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+17:04:17.110 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:04:17.304 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:04:17.304 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+17:04:17.347 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:04:17.355 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+17:04:17.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:04:28.705 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:04:33.015 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+17:04:46.357 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+17:11:26.927 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/w48o42nrhgaohzwdelhphdtv4z6gbxunh1g7soxt to view build report, insights, and many more debugging information all at one place!
+
+17:11:26.927 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:11:30.663 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+17:11:35.423 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/101cfd93762df0e2999c70aebcdb3cef52f3ee6e
+17:11:35.423 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:13:59.958 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+17:13:59.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:14:00.198 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:14:00.199 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\SeleniumBrowserstackAssign\Browserstack\browserstack.yml
+17:14:00.297 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:14:00.326 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+17:14:00.802 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:14:09.573 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:14:11.227 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+17:14:22.152 [Thread-5] INFO  com.browserstack.percy.Percy - Percy started successfully
+17:17:38.200 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gmixs5lm5utrxygfulskohy1gutvktepj1kfqp2e to view build report, insights, and many more debugging information all at one place!
+
+17:17:38.204 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:41.735 [Thread-0] INFO  com.browserstack.PercyFactory - Percy stopped successfully
+17:17:47.050 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/39a04c7e1ea6a89ab7e1516842ce590865b97190
+17:17:47.050 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

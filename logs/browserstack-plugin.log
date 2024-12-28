@@ -1,0 +1,493 @@
+00:04:39.351 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+00:04:39.357 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=YpkcjzmELw4TqeFFpk23, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=hemach_6bkmpf, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+00:04:39.365 [Worker-48: Launching mavenrun-37800a9c-155a-42ec-bcd6-ac49e26c9fb8] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:05:05.974 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:05:05.974 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:05:05.975 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:05:05.975 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:05:05.975 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:05:05.976 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:07:11.207 [Worker-65: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:07:11.210 [Worker-65: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:07:11.211 [Worker-65: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:07:11.218 [Worker-65: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:08:55.465 [Worker-69: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:08:55.466 [Worker-69: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:08:55.467 [Worker-69: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:08:55.470 [Worker-69: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:09:49.238 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:09:49.238 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:09:49.238 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:09:49.240 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:09:49.240 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:09:49.240 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:13:15.421 [Worker-70: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:13:15.424 [Worker-70: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:15.425 [Worker-70: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:13:15.429 [Worker-70: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:13:47.178 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:13:47.179 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:47.180 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:13:47.181 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:13:47.181 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:47.182 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:14:21.447 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:14:21.447 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:21.448 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:14:21.448 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:14:21.448 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:21.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:14:25.809 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:14:25.809 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:25.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:14:25.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:14:25.810 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:25.811 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:14:36.250 [Worker-75: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:14:36.251 [Worker-75: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:36.251 [Worker-75: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:14:36.254 [Worker-75: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:15:20.091 [Worker-48: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:15:20.094 [Worker-48: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:15:20.095 [Worker-48: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:15:20.102 [Worker-48: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:16:41.259 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:16:41.259 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:16:41.260 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:16:41.260 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:16:41.260 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:16:41.261 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:16:54.310 [Worker-73: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:16:54.312 [Worker-73: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:16:54.313 [Worker-73: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:16:54.317 [Worker-73: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:20:13.883 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:20:13.883 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:20:13.884 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/testng-browserstack-master
+00:20:13.885 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:20:13.885 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:20:13.886 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/testng-browserstack-master
+00:20:18.425 [Worker-62: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:20:18.427 [Worker-62: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:20:18.428 [Worker-62: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:20:18.432 [Worker-62: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:23:17.463 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:23:17.463 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:23:17.464 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:23:17.464 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:23:17.464 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:23:17.465 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:23:41.697 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:23:41.700 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:23:41.701 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:23:41.707 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:24:28.200 [Worker-85: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:24:28.204 [Worker-85: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:24:28.205 [Worker-85: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:42:48.378 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:42:48.378 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:42:48.379 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:42:48.380 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:42:48.380 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:42:48.381 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:42:53.314 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:42:53.315 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:42:53.317 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+00:42:53.318 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:42:53.318 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:42:53.319 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+00:48:05.810 [Worker-89: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:48:05.812 [Worker-89: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:48:05.812 [Worker-89: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:48:05.815 [Worker-89: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:48:05.816 [Worker-89: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:49:35.996 [Worker-95: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:49:35.998 [Worker-95: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:49:35.999 [Worker-95: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:49:36.005 [Worker-95: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:06:30.734 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+01:06:30.734 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:06:30.736 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+01:06:30.736 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+01:06:30.737 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:06:30.738 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+01:08:17.543 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:08:17.547 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:08:17.548 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:08:17.553 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:14:08.201 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+01:14:08.201 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:14:08.202 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+01:14:08.203 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+01:14:08.203 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:14:08.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+01:15:05.786 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+01:15:05.786 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:15:05.787 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+01:15:05.788 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+01:15:05.788 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:15:05.789 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+01:15:12.614 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+01:15:12.615 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:15:12.617 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+01:15:12.618 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+01:15:12.619 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:15:12.621 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+01:15:37.541 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:15:37.544 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:15:37.545 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:15:37.549 [Worker-97: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:17:00.272 [Worker-92: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:17:00.274 [Worker-92: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:17:00.275 [Worker-92: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:17:00.278 [Worker-92: Launching Browserstack_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:19:12.561 [Worker-101: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:19:12.564 [Worker-101: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:19:12.564 [Worker-101: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:19:12.569 [Worker-101: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:20:50.779 [Worker-97: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:20:50.818 [Worker-97: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:20:50.820 [Worker-97: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:20:50.825 [Worker-97: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:25:45.078 [Worker-110: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:25:45.080 [Worker-110: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:25:45.081 [Worker-110: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:25:45.084 [Worker-110: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:27:43.626 [Worker-113: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:27:43.629 [Worker-113: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:27:43.630 [Worker-113: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:27:43.635 [Worker-113: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:29:18.942 [Worker-112: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:29:18.944 [Worker-112: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:29:18.945 [Worker-112: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:29:18.951 [Worker-112: Launching BStackDemoTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:36:26.532 [Worker-105: Launching TestBrowserstack.testBrowserStack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:36:26.533 [Worker-105: Launching TestBrowserstack.testBrowserStack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:36:26.533 [Worker-105: Launching TestBrowserstack.testBrowserStack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:36:26.538 [Worker-105: Launching TestBrowserstack.testBrowserStack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:42:40.841 [Worker-105: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+01:42:40.844 [Worker-105: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:42:40.845 [Worker-105: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+01:42:40.850 [Worker-105: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+01:43:54.600 [Framework stop - Equinox Container: 373b22f0-9ce1-4679-98f9-c7f5cddca666] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+08:58:58.267 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+08:58:58.283 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=YpkcjzmELw4TqeFFpk23, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=hemach_6bkmpf, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+08:58:58.283 [Worker-11: Launching mavenrun-99206f28-dc7f-4483-ae67-89697b3f5030] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:00:06.977 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:00:06.979 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:00:06.982 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:00:06.982 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:05:50.152 [Worker-33: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:05:50.153 [Worker-33: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:05:50.155 [Worker-33: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:05:50.156 [Worker-33: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:10:41.455 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:10:41.457 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:10:41.459 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:10:41.460 [Worker-19: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:23:47.179 [Worker-37: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:23:47.180 [Worker-37: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:23:47.181 [Worker-37: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:23:47.181 [Worker-37: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:35:20.848 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+09:35:20.848 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:35:20.849 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+09:35:20.849 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+09:35:20.849 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:35:20.850 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+09:38:45.763 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:38:45.764 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:38:45.766 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:38:45.767 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+09:39:53.225 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:39:53.227 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:39:53.243 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:39:53.244 [Worker-30: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+09:54:36.065 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:54:36.066 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:54:36.068 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:54:36.069 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:12:23.608 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:12:23.610 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:12:23.612 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:12:23.613 [Worker-56: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:21:48.663 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:21:48.665 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:21:48.666 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:21:48.667 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:32:28.473 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:32:28.474 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:32:28.475 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:32:28.476 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:33:06.967 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:33:06.968 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:33:06.969 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:33:06.969 [Worker-63: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:38:00.495 [Worker-68: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:38:00.496 [Worker-68: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:38:00.497 [Worker-68: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:38:00.498 [Worker-68: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:44:48.649 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:44:48.651 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:44:48.653 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:44:48.654 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:44:52.199 [Worker-65: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:44:56.052 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:44:56.053 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:44:56.054 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:45:54.694 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:45:54.696 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:45:54.697 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:45:54.698 [Worker-73: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:46:47.750 [Worker-72: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:46:47.752 [Worker-72: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:46:47.754 [Worker-72: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:46:47.755 [Worker-72: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:47:50.333 [Worker-71: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:47:50.334 [Worker-71: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:47:50.335 [Worker-71: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:47:50.336 [Worker-71: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:49:41.413 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:49:41.414 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:49:41.416 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:41.416 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+10:54:35.908 [Worker-74: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:54:35.909 [Worker-74: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:54:35.910 [Worker-74: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:54:35.911 [Worker-74: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:56:11.634 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:56:11.635 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:56:11.636 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:56:11.636 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:58:44.237 [Worker-79: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:58:44.238 [Worker-79: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:58:44.239 [Worker-79: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:58:44.239 [Worker-79: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:02:30.217 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:02:30.218 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:02:30.220 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:02:30.220 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:04:47.301 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:04:47.302 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:04:47.303 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:04:47.303 [Worker-81: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:06:54.766 [Worker-88: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:06:54.767 [Worker-88: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:06:54.769 [Worker-88: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:06:54.770 [Worker-88: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:08:20.075 [Worker-85: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:08:20.076 [Worker-85: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:08:20.077 [Worker-85: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:08:20.077 [Worker-85: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:16:27.173 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:16:27.175 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:16:27.176 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:16:27.177 [Worker-78: Launching MobileTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:16:42.115 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:16:42.116 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:16:42.117 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:16:42.117 [Worker-78: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:18:38.769 [Framework stop - Equinox Container: e9d58cfc-78fc-44e1-be84-134ee136855a] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+12:34:29.060 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:34:29.061 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:34:29.062 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+12:34:29.062 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:34:29.063 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:34:29.064 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+12:34:30.408 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:34:30.409 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:34:30.412 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+12:34:30.413 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:34:30.413 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:34:30.415 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+12:34:47.832 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+12:34:47.848 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=YpkcjzmELw4TqeFFpk23, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=hemach_6bkmpf, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+12:34:47.857 [Worker-43: Launching mavenrun-dca11b79-708d-4aa2-96a8-8fbe9465607b] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:35:49.684 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:35:49.690 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:35:49.695 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:35:49.696 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:35:51.721 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:36:31.236 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:36:31.239 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:31.239 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:38:09.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:38:09.052 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:38:09.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+12:38:09.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:38:09.052 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:38:09.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+12:38:12.836 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:38:12.836 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:38:12.838 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+12:38:12.838 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:38:12.838 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:38:12.839 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+12:38:24.696 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:38:24.698 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:38:24.700 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:38:24.701 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:39:41.764 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:39:41.766 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:39:41.769 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:39:41.770 [Worker-46: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:43:50.151 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:43:50.153 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:43:50.156 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:50.157 [Worker-52: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:45:54.908 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:45:54.912 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:45:54.912 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:45:54.921 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:50:38.658 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:50:38.659 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:50:38.662 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:50:38.663 [Worker-58: Launching HomePage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:51:32.726 [Worker-38: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:51:32.728 [Worker-38: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:51:32.731 [Worker-38: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:32.732 [Worker-38: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:55:23.534 [Worker-64: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:55:23.536 [Worker-64: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:55:23.539 [Worker-64: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:55:23.540 [Worker-64: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+12:59:46.000 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:59:46.001 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:59:46.003 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:59:46.003 [Worker-51: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:00:47.112 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:00:47.115 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:00:47.120 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:00:47.122 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:05:16.598 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:05:16.600 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:05:16.603 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:05:16.605 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:09:59.482 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:09:59.482 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:09:59.484 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:09:59.484 [Worker-72: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:25:21.455 [Worker-77: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:25:21.456 [Worker-77: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:25:21.458 [Worker-77: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:25:21.459 [Worker-77: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:34:18.394 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:34:18.396 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:34:18.399 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:34:18.400 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+13:42:37.241 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:42:37.243 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:42:37.246 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:42:37.247 [Worker-67: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:27:40.131 [Worker-96: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:27:40.131 [Worker-96: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:27:40.133 [Worker-96: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:27:40.133 [Worker-96: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:33:05.019 [Worker-100: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:33:05.020 [Worker-100: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:33:05.021 [Worker-100: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:33:05.022 [Worker-100: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:34:24.425 [Worker-102: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:34:24.425 [Worker-102: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:34:24.426 [Worker-102: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:34:24.427 [Worker-102: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:39:13.336 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:39:13.337 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:39:13.339 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:39:13.339 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:49:00.394 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:49:00.394 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:00.395 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+14:49:00.395 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:49:00.395 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:00.396 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+14:49:02.945 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:49:02.945 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:02.946 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+14:49:02.946 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:49:02.946 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:02.947 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+14:49:18.448 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:49:18.448 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:18.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+14:49:18.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:49:18.449 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:49:18.450 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+14:50:36.587 [Worker-114: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:50:36.588 [Worker-114: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:50:36.589 [Worker-114: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:50:36.590 [Worker-114: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:55:31.215 [Worker-118: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:55:31.215 [Worker-118: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:55:31.216 [Worker-118: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:55:31.217 [Worker-118: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:01:12.203 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:01:12.203 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:01:12.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+15:01:12.205 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:01:12.205 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:01:12.205 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+15:06:13.924 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:06:13.925 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:06:13.926 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:06:13.926 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:06:16.154 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:07:52.684 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:07:52.686 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:07:52.687 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:10:46.588 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:10:46.589 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:10:46.590 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:10:46.590 [Worker-117: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:16:06.941 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:16:06.942 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:16:06.945 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:16:06.945 [Worker-107: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:19:38.446 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:19:38.447 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:19:38.448 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:19:38.448 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:21:12.461 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:21:12.461 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:21:12.464 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:21:12.464 [Worker-131: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:28:22.063 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:28:22.064 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:28:22.065 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:28:22.065 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+15:40:25.292 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:40:25.292 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:40:25.293 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+15:40:25.293 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:40:25.293 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:40:25.293 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+15:40:31.000 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:40:31.001 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:40:31.003 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:40:31.003 [Worker-132: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+16:03:28.033 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:03:28.034 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:03:28.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+16:03:28.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:03:28.034 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:03:28.035 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+16:03:29.409 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:03:29.410 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:03:29.412 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+16:03:29.412 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:03:29.413 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:03:29.413 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+16:04:14.149 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:04:14.149 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=VfLHaxjoddpzcKByJR2Q, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=hemanjalich_yfcRai, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+16:04:14.165 [Worker-150: Launching mavenrun-536f820f-1e13-48cb-939a-626467bc6570] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:04:49.904 [Worker-148: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:04:49.905 [Worker-148: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:04:49.906 [Worker-148: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:04:49.906 [Worker-148: Launching TestBrowserstack] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+16:06:17.831 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:06:17.831 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:06:17.831 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack
+16:06:17.832 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:06:17.832 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:06:17.832 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack
+16:06:27.799 [Framework stop - Equinox Container: 54ad5805-ccab-44b5-b5a9-d4f3b04c201d] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
