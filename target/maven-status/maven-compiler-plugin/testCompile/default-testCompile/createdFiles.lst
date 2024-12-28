@@ -1,0 +1,6 @@
+com\Browserstack\AppTest.class
+com\Browserstack\OpinionSection.class
+com\Browserstack\Translation.class
+com\Browserstack\HomePage.class
+com\Browserstack\Occurrences.class
+com\Browserstack\TestBrowserstack.class
