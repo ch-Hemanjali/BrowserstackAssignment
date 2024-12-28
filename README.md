@@ -137,7 +137,9 @@ Scraped Articles
 
 Article 1:
 Title (Spanish): Título del artículo 1
+
 Content: Este es el contenido del artículo.
+
 Image downloaded as: article_img1.png
 
 ...
@@ -145,6 +147,7 @@ Image downloaded as: article_img1.png
 Translated Headers
 
 Original Text: Título del artículo 1
+
 Translated Text: Title of article 1
 ...
 
@@ -155,4 +158,7 @@ article: 3
 title: 2
 ...
 
+
+
+Refer this Browserstack Dashboard - https://automate.browserstack.com/dashboard/v2/public-build/YjZiNElaZlRPTEo4c3R1NmRSYlNEbVJkaldmQ0phMVRXa0FNSXc4WkxMWG0rNngzMW5PREhxNi9nL1EwVEl6VVRHRTRXbFNlSkNMc2VxQjBuL05oTmc9PS0tWE1TRU5qT28zK0dtaW54U2RsbDU5UT09--a67b87a8321570337172ada4bdc0086d6bc243c8
 
