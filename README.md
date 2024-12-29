@@ -1,7 +1,7 @@
 # BrowserstackSeleniumTest
 
 
-## BrowserStack Web Scraping, API Integration Project and Text processing using the Selenium framework 
+## Web Scraping, API Integration Project and Text processing using the Selenium framework 
 
 This project demonstrates a combination of skills in web scraping, API integration, and text processing using the Selenium framework, along with cross-browser testing on BrowserStack. The solution scrapes articles from the Spanish news website El País ( https://elpais.com/ ), translates article headers, analyzes the translated text for repeated words, and validates the functionality across multiple browser and device combinations.
 
@@ -9,13 +9,15 @@ This project demonstrates a combination of skills in web scraping, API integrati
 
 ## 1. Web Scraping
 
-Navigates to the Opinion section of the El País website.
+Open El País website.
+
+Navigates to the Opinion section.
 
 Scrapes the first five articles, fetching:
 
 Title and content (in Spanish).
 
-Cover images, which are downloaded to the local machine.
+Downloaded Cover images to the local machine.
 
 ## 2. API Integration
 
@@ -52,8 +54,6 @@ BrowserStack Account
 
 BrowserStack username and access key.
 
-Ensure the BrowserStack credentials are set in the TestBrowserstack class.
-
 API Key
 
 Obtain an API key from the Rapid Translate Multi Traduction API.
@@ -80,9 +80,7 @@ Step 4: Run Tests
 
 Local Execution
 
-Run the tests locally using:
-
-$ mvn test
+Run the tests locally using
 
 BrowserStack Execution
 
@@ -90,9 +88,7 @@ To execute tests on BrowserStack:
 
 Set desired capabilities in the TestBrowserstack class.
 
-Run the tests with:
-
-$ mvn test
+Run the tests with
 
 Project Structure
 
@@ -138,7 +134,7 @@ Scraped Articles
 Article 1:
 Title (Spanish): Título del artículo 1
 
-Content: Este es el contenido del artículo.
+Overview: Este es el contenido del artículo.
 
 Image downloaded as: article_img1.png
 
@@ -160,5 +156,5 @@ title: 2
 
 
 
-Refer this Browserstack Dashboard - https://automate.browserstack.com/dashboard/v2/public-build/YjZiNElaZlRPTEo4c3R1NmRSYlNEbVJkaldmQ0phMVRXa0FNSXc4WkxMWG0rNngzMW5PREhxNi9nL1EwVEl6VVRHRTRXbFNlSkNMc2VxQjBuL05oTmc9PS0tWE1TRU5qT28zK0dtaW54U2RsbDU5UT09--a67b87a8321570337172ada4bdc0086d6bc243c8
+Refer this Browserstack Dashboard to see parallel sessions- https://automate.browserstack.com/dashboard/v2/public-build/YjZiNElaZlRPTEo4c3R1NmRSYlNEbVJkaldmQ0phMVRXa0FNSXc4WkxMWG0rNngzMW5PREhxNi9nL1EwVEl6VVRHRTRXbFNlSkNMc2VxQjBuL05oTmc9PS0tWE1TRU5qT28zK0dtaW54U2RsbDU5UT09--a67b87a8321570337172ada4bdc0086d6bc243c8
 
